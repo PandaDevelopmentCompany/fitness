@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+car-wash.leftma7t.beget.tech	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	i5QuyNpH_Eu9YVuWEls66LbZjBJGO9PCzV.wPcLXo40-1660898263-0-AaopkDrm0no+hAAnrpmkPhtBAVRSGlCliFcRjw0Vx+qPR94w+zqYgBVHcTdxpIx00vaYpBor3xtOOEqzFUWIy5M=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
